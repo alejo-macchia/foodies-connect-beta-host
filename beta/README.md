@@ -1,4 +1,6 @@
 # Foodies Connect Enterprise Beta Channel
 
-- updates.xml
-- foodies-connect-beta.crx
+This branch stores remote update artifacts for enterprise-managed Chrome installs.
+
+- `foodies-connect-beta.crx`
+- `updates.xml`
