@@ -1,0 +1,16 @@
+{
+  "oauthClientId": "",
+  "authAutoPromptOnFirstOpen": true,
+  "authAutoReconnectOnDisconnect": true,
+  "notionProxyUrl": "https://foodies-backend.restoexp.com/api/notion-proxy",
+  "notionDataSourceId": "16546431-30d4-8123-99dd-000bbaf138d1",
+  "notionRestaurantDataSourceId": "19a46431-30d4-80bc-a099-000bbef815f4",
+  "notionOutreachDataSourceId": "31f46431-30d4-8015-9346-000b42760352",
+  "notionDealsDataSourceId": "16546431-30d4-81b6-999e-000b39ddd19d",
+  "notionInfluencerNameProp": "Name",
+  "notionInfluencerHandleProp": "Influencer",
+  "notionInfluencerInstagramUrlProp": "Link",
+  "notionInfluencerEmailProp": "Mail",
+  "notionInfluencerFollowersProp": "Followers",
+  "notionInfluencerEstimatedViewsProp": "Av. Views"
+}
