@@ -3,6 +3,8 @@
   "authAutoPromptOnFirstOpen": true,
   "authAutoReconnectOnDisconnect": true,
   "notionProxyUrl": "https://foodies-connect-notion-proxy.vercel.app/api/notion-proxy",
+  "runtimeApiBaseUrl": "https://foodies-connect-notion-proxy.vercel.app",
+  "runtimeBackendEnabled": true,
   "notionDataSourceId": "16546431-30d4-8123-99dd-000bbaf138d1",
   "notionRestaurantDataSourceId": "19a46431-30d4-80bc-a099-000bbef815f4",
   "notionOutreachDataSourceId": "31f46431-30d4-8015-9346-000b42760352",
