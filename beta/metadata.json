@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-11T18:57:10.271Z",
+  "generatedAt": "2026-04-11T19:05:04.391Z",
   "extensionId": "nhbijfcakkbnepmlciolgkofimecjoko",
-  "version": "0.1.44",
+  "version": "0.1.45",
   "updateUrl": "https://raw.githubusercontent.com/alejo-macchia/foodies-connect-beta-host/main/beta/updates.xml",
   "codebaseUrl": "https://raw.githubusercontent.com/alejo-macchia/foodies-connect-beta-host/main/beta/foodies-connect-beta.crx",
   "files": {
