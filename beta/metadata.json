@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-23T01:11:41.185Z",
+  "generatedAt": "2026-04-29T20:30:49.835Z",
   "extensionId": "nhbijfcakkbnepmlciolgkofimecjoko",
-  "version": "0.1.108",
-  "updateUrl": "https://raw.githubusercontent.com/alejo-macchia/foodies-connect-beta-host/main/beta/updates.xml",
-  "codebaseUrl": "https://raw.githubusercontent.com/alejo-macchia/foodies-connect-beta-host/main/beta/foodies-connect-beta.crx",
+  "version": "0.1.110",
+  "updateUrl": "https://raw.githubusercontent.com/JuanWeihmuller/foodies-connect-beta-host/main/beta/updates.xml",
+  "codebaseUrl": "https://raw.githubusercontent.com/JuanWeihmuller/foodies-connect-beta-host/main/beta/foodies-connect-beta.crx",
   "files": {
-    "crx": "/Users/keke/Desktop/Foodies Connect/dist/enterprise-beta/foodies-connect-beta.crx",
-    "xml": "/Users/keke/Desktop/Foodies Connect/dist/enterprise-beta/updates.xml"
+    "crx": "/home/runner/work/foodies-connect/foodies-connect/dist/enterprise-beta/foodies-connect-beta.crx",
+    "xml": "/home/runner/work/foodies-connect/foodies-connect/dist/enterprise-beta/updates.xml"
   }
 }

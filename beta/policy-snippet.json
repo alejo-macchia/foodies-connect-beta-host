@@ -1,7 +1,7 @@
 {
   "nhbijfcakkbnepmlciolgkofimecjoko": {
     "installation_mode": "force_installed",
-    "update_url": "https://raw.githubusercontent.com/alejo-macchia/foodies-connect-beta-host/main/beta/updates.xml",
+    "update_url": "https://raw.githubusercontent.com/JuanWeihmuller/foodies-connect-beta-host/main/beta/updates.xml",
     "override_update_url": true
   }
 }
